@@ -1,0 +1,43 @@
+.thuTitle {
+	padding: 20px;
+	background-color: #ff9595;
+	color: #523939;
+	font-family: 'Dancing Script',cursive;
+	font-size: 26pt;
+}
+
+.tamthu {
+	font-family: 'Dancing Script', ;
+	font-size: 18pt;
+}
+
+.tamthu123 {
+	font-family: '',;
+	font-size: 50pt;
+	color: #ea2447
+}
+
+.content {
+	background-color: #ffb2b2;
+}
+
+body {
+	background-color: pink;
+}
+span {
+	display: inline-block;
+	white-space: pre;
+}
+
+.iloveyou {
+	position: relative;
+}
+
+.mask {
+	position: absolute;
+	background-color: #ea2447;
+	width: 100%;
+	height:100%;
+	top: 0;
+	left: 0;
+}
